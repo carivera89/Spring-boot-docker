@@ -10,9 +10,9 @@
 	</parent>
 	
 	<groupId>com.co.crivera</groupId>
-	<artifactId>Dockering-spring-web</artifactId>
+	<artifactId>dockering-spring-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Dockering-spring-web</name>
 	<description>Demo project for Spring Boot</description>
 	
